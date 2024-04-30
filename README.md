@@ -1,4 +1,3 @@
-# P-L Report
 # Excel - Sales and Finance Analytics Project
 
 💾 Problem Statement:
